@@ -23,3 +23,10 @@ Este sitio web esta estructurado por modulos: Fotografia, Diseño grafico, Desar
 `<p> Hola mundo soy una prueba </p>`
 
 ![gato](assets/images/3fe53bc24db632727043e2f87c0f03e4.jpg)
+
+
+| COD | USER | EMAIL |
+|-----|------|-------|
+| ED001 | lucy25 | lucy25@gmail.com |
+|ED002 | maria26 | maria26@gmail.com |
+|ED003 | pedro62 | pedro62@gmail.com |
