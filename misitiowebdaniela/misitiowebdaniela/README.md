@@ -3,7 +3,7 @@
 
 Este sitio web esta estructurado por modulos: Fotografia, Diseño grafico, Desarrollo de app. desarrollo web y cursos.
 
-> Empieza donde estas, usa lo que tienes, haz lo que puedas. -Arthur Ashe
+> *Empieza donde estas, usa lo que tienes, haz lo que puedas.* **Arthur Ashe**
 
 ### Desarrolladores
 * Carlos
@@ -16,3 +16,10 @@ Este sitio web esta estructurado por modulos: Fotografia, Diseño grafico, Desar
 1. Profesores
 1. Alumnos
 1. Horarios
+
+
+[Academia EnDigital](https://www.taylorswift.com)
+
+`<p> Hola mundo soy una prueba </p>`
+
+![gato](assets/images/3fe53bc24db632727043e2f87c0f03e4.jpg)
